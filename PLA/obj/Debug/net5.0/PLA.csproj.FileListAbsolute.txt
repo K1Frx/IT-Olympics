@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\Study\C#\PLA\bin\Debug\net5.0\PLA.exe
+C:\Users\Kamil\Desktop\Study\C#\PLA\bin\Debug\net5.0\PLA.deps.json
+C:\Users\Kamil\Desktop\Study\C#\PLA\bin\Debug\net5.0\PLA.runtimeconfig.json
+C:\Users\Kamil\Desktop\Study\C#\PLA\bin\Debug\net5.0\PLA.runtimeconfig.dev.json
+C:\Users\Kamil\Desktop\Study\C#\PLA\bin\Debug\net5.0\PLA.dll
+C:\Users\Kamil\Desktop\Study\C#\PLA\bin\Debug\net5.0\PLA.pdb
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.dll
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\refint\PLA.dll
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.pdb
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\PLA.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Study\C#\PLA\obj\Debug\net5.0\ref\PLA.dll
