@@ -1,0 +1,16 @@
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\bin\Debug\net5.0\PEN.exe
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\bin\Debug\net5.0\PEN.deps.json
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\bin\Debug\net5.0\PEN.runtimeconfig.json
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\bin\Debug\net5.0\PEN.runtimeconfig.dev.json
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\bin\Debug\net5.0\PEN.dll
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\bin\Debug\net5.0\PEN.pdb
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.dll
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\refint\PEN.dll
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.pdb
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\PEN.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Study\IT-Olympics\PEN\obj\Debug\net5.0\ref\PEN.dll
